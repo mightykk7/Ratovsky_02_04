@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Кредитный калькулятор</string>
+    <string name="regist">Регистрация</string>
+    <string name="enter">Войти</string>
+    <string name="title1">Кредитный калькулятор</string>
+    <string name="toreg">на главное меню</string>
+    <string name="howmany">Сколько вам нужно</string>
+    <string name="ot">от 30 000</string>
+    <string name="for100">до 100 000</string>
+    <string name="entersrok">Введите срок кредита</string>
+    <string name="res">Рассчитать</string>
+    <string name="monthpay">ежемесячный платёж</string>
+    <string name="sum">Сумма кредита</string>
+    <string name="srok">Срок кредита</string>
+</resources>
