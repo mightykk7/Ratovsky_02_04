@@ -19,7 +19,8 @@
         android:layout_width="78dp"
         android:layout_height="70dp"
         android:contentDescription="back"
-        android:background="@drawable/back"/>
+        android:background="@drawable/back"
+        android:onClick="toMain2"/>
     <TextView
         android:layout_width="300dp"
         android:layout_height="60dp"

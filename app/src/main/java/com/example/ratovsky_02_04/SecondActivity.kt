@@ -14,4 +14,8 @@ class SecondActivity : AppCompatActivity() {
             startActivity(Intent(this, ThreeActivity::class.java))
             finish()
     }
+    fun toMain2(view: View) {
+        startActivity(Intent(this, MainActivity::class.java))
+        finish()
+    }
 }
